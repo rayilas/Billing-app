@@ -29,4 +29,6 @@ os
 
 tkinter 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/200dcb93-7757-4153-88f3-7c28a2b3f72f" />
+<img width="1694" height="908" alt="Screenshot 2025-12-06 231940" src="https://github.com/user-attachments/assets/1cc79446-1c6b-43bc-8a39-1f26350cf388" />
+<img width="1688" height="917" alt="Screenshot 2025-12-06 234601" src="https://github.com/user-attachments/assets/0889ac78-57be-48d8-9af7-fea7a32ef740" />
+
